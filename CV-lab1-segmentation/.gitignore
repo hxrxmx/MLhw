@@ -1,0 +1,10 @@
+.venv
+
+demo/
+Images/
+Masks/
+
+breast-cancer-cells-segmentation.zip
+
+lightning_logs/
+saved_models/
